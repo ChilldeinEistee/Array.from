@@ -10,6 +10,11 @@ In a browser:
 <script src="array-from.js"></script>
 ```
 
+Via [bower](https://bower.io):
+```bash
+bower install array.from
+```
+
 Via [npm](https://www.npmjs.com/):
 
 ```bash
